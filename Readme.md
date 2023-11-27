@@ -65,8 +65,7 @@ Typecho版本：Typecho1.2.1
 如果你觉得我的内容对你很有用，请随意打赏！
 
 
-![打赏](htps://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/5b462e6e-5a78-4645-8747-c5a26331203e)
+![image](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/00fb107d-16a6-48fd-afcf-83bf1f3660d5)
 
-![image](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/23894104-e463-4912-9be4-f2112a3032aa)
 
 
