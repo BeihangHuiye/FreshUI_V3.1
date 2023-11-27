@@ -44,7 +44,7 @@ Typecho版本：Typecho1.2.1
 
 <a class="navbar-brand brand-logo" href="index.php"><img src="你的头像url" alt="logo"></a>
 
-···
+```
 
 中的src修改为你的头像的地址即可！
 
