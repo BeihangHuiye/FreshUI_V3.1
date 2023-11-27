@@ -20,7 +20,7 @@ PHP版本：PHP7.4，PHP8.0~PHP8.2
 
 Typecho版本：Typecho1.2.1
 
-主题版本：Hnadsome主题9.0.2
+主题版本：Handsome主题9.0.2
 
 ## 使用方法
 
