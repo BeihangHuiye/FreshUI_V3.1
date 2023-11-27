@@ -4,6 +4,10 @@
 
 一个正在找对象的母单博主！
 
+
+有什么问题欢迎去我的博客评论区交流：[Typecho好看的后台主题FreshUi，适配PHP8.X之后开源了](https://www.52txr.cn/2023/Freshadmin31.html)
+
+
 ## 包含的内容
 
 一个**admin** 文件夹
