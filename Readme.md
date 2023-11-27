@@ -4,15 +4,19 @@
 
 菜单文件Menu.php
 
+![包含的文件](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/88fa6cd3-47c7-446a-bff5-a2fcdf45b3b1)
+
+
 ## 效果预览
 
 可以登陆我的博客后台看看哦！
 
+![后台样式](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/b97af179-4eb3-4a59-b74b-50a0ec8badcb)
 
 
 ## 测试环境
 
-PHP版本：PHP7.7，PHP8.0~PHP8.2
+PHP版本：PHP7.4，PHP8.0~PHP8.2
 
 Typecho版本：Typecho1.2.1
 
@@ -28,12 +32,23 @@ Typecho版本：Typecho1.2.1
 
 3、修改评论区头像显示问题：
 
+在博客的“var/Typecho/Common.php”的第836行左右，将https://secure.gravatar.com修改为国内源https://cravatar.cn即可。如下图所示。
 
+![修改头像的源](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/580a15dd-123f-49f8-a6c4-516699712ed5)
 
+4、修改网站后台的左上角logo
 
+在`admin/FreshUi.php`中，将
 
-4、修改网站logo
+```php
 
+<a class="navbar-brand brand-logo" href="index.php"><img src="你的头像url" alt="logo"></a>
+
+···
+
+中的src修改为你的头像的地址即可！
+
+![头像的地址](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/9615a39e-03df-4392-a35b-f806714dfe2a)
 
 
 ## 版权声明
