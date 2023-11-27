@@ -32,7 +32,7 @@ Typecho版本：Typecho1.2.1
 
 3、修改评论区头像显示问题：
 
-在博客的“var/Typecho/Common.php”的第836行左右，将https://secure.gravatar.com修改为国内源https://cravatar.cn即可。如下图所示。
+在博客的“var/Typecho/Common.php”的第836行左右，将`https://secure.gravatar.com`修改为国内源`https://cravatar.cn`即可。如下图所示。
 
 ![修改头像的源](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/580a15dd-123f-49f8-a6c4-516699712ed5)
 
