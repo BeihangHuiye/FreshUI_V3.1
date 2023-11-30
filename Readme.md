@@ -7,6 +7,20 @@
 
 有什么问题欢迎去我的博客评论区交流：[Typecho好看的后台主题FreshUi，适配PHP8.X之后开源了](https://www.52txr.cn/2023/Freshadmin31.html)
 
+## 更新日志
+
+#### 2023.11.30 修复手机端评论管理样式问题
+
+修改之前：
+
+![修改之前评论管理样式](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/1395cc05-c1a0-4c08-968d-3cf90fae51ce)
+
+
+更新之后：
+
+![修改之后评论管理样式](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/aa2c0493-8f5f-4303-9e6f-643a9960b021)
+
+
 
 ## 包含的内容
 
