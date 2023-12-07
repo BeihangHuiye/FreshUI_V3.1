@@ -2,12 +2,22 @@
 
 欢迎访问我的个人博客：[陶小桃Blog](https://www.52txr.cn)
 
-一个正在找对象的母单博主！
-
 
 有什么问题欢迎去我的博客评论区交流：[Typecho好看的后台主题FreshUi，适配PHP8.X之后开源了](https://www.52txr.cn/2023/Freshadmin31.html)
 
 ## 更新日志
+
+#### 2023.12.07 更新新建页面无效的问题
+
+收到使用者无法新建页面的问题：
+
+![50171e994c1a88fef4fcf4aa21ea241](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/c2963ae4-524d-4425-a9a7-e44c1a4674ee)
+
+只需要替换成最新的`write-page.php`文件即可修复问题。
+
+![亲测已经修好了](https://github.com/BeihangHuiye/FreshUI_V3.1/assets/148823447/61ac5524-cd2f-4cff-99da-a992b4de927a)
+
+
 
 #### 2023.12.05 修复电脑端左上角logo尺寸变形问题
 
