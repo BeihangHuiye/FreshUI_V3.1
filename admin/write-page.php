@@ -45,8 +45,7 @@ Typecho_Widget::widget('Widget_Contents_Page_Edit')->to($page);
 			<textarea style="height: <?php $options->editorSize(); ?>px;margin-top:5px;" autocomplete="off" id="text" name="text" class="w-100 mono"><?php  echo htmlspecialchars($page->text ?? '');  ?></textarea>
 		<?php include 'custom-fields.php'; ?>
 		</p>
-			
-		<?php include 'custom-fields.php'; ?>
+
 		<p class="submit clearfix">
 			<span class="right"> 
 				<input type="hidden" name="cid" value="<?php $page->cid(); ?>" />
